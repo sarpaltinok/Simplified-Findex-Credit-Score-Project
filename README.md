@@ -1,3 +1,4 @@
+[English Readme.md](https://github.com/sarpaltinok/Simplified-Findex-Credit-Score-Project/blob/main/README_EN.md)
 # Basitleştirilmiş Findeks Kredi Notu Projesi
 
 Bu proje, örnek finansal verilere dayalı olarak kredi notlarını hesaplayan ve görselleştiren, Findeks Kredi Notu sisteminin basitleştirilmiş bir simülasyonudur. Python ile yazılmıştır ve veri işleme için pandas, görselleştirme için matplotlib kullanır.
